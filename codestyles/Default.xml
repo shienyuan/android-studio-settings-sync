@@ -1,7 +1,6 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="120" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <option name="SOFT_MARGINS" value="120" />
+  <option name="SOFT_MARGINS" value="100" />
   <codeStyleSettings language="Dart">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="WRAP_ON_TYPING" value="1" />
