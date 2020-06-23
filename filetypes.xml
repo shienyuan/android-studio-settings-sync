@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="f" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
     </extensionMap>
