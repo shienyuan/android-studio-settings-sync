@@ -2,6 +2,9 @@
   <option name="RIGHT_MARGIN" value="110" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="SOFT_MARGINS" value="110" />
+  <codeStyleSettings language="Dart">
+    <option name="RIGHT_MARGIN" value="110" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
