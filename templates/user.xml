@@ -1,0 +1,40 @@
+<templateSet group="user">
+  <template name="cs" value="// ***************************&#10;// ********** $value$ *********&#10;// ***************************" description="comment a section" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="chttpf" value="// **************************&#10;// ********** FETCH *********&#10;// **************************" description="comment http fetch section" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="chttpu" value="// ***************************&#10;// ********** UPDATE *********&#10;// ***************************" description="comment http update section" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="chttpc" value="// ***************************&#10;// ********** CREATE *********&#10;// ***************************" description="comment http create section" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="chttpd" value="// ***************************&#10;// ********** DELETE *********&#10;// ***************************" description="comment http delete section" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="// ---------- $value$ ----------" description="comment line with -" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ca" value="// ********** $value$ **********" description="comment line with *" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
